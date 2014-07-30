@@ -8,6 +8,7 @@ namespace WebApplication2
     {
         public void Configuration(IAppBuilder app)
         {
+            //asdfasdfsad
             ConfigureAuth(app);
         }
     }
